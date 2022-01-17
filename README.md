@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanketarekar
+- 👋 Hi, I’m Sanket Arekar
 - 👀 I’m currently working on web development
 - 🌱 I’m currently learning Node Js 
 - 💞️ I’m looking to collaborate and contribute to awesome projects
